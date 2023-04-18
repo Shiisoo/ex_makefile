@@ -1,0 +1,40 @@
+CREER PROGRAMME CALCULETTE
+
+Mathematique (lib)
+add()
+sous()
+multiplication()
+division()
+
+Utils (lib)
+sayHello()
+
+
+Programme :
+TestUnitaire (main)
+Programme (main)
+
+CREER Makefile: (des messages à chaque à GOAL)
+all
+build
+test
+clean
+help
+
+et vous utilisez au moins un include de fichier.
+
+---------
+
+prod (qui va deplacer tous les executables dans un dossier PROD)  //WILDECARD
+
+
+headers
+sources
+main.c
+test.c
+
+lib
+--- Mathematique
+--- Utils
+main.c
+test.c

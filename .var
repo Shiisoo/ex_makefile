@@ -1,0 +1,7 @@
+MATH = ./lib/maths/
+UTIL = ./lib/utils/
+SRC = ./sources/
+BLD = ./build/
+OBJ = ./obj/
+DLL = ./dll/
+PROD = ./prod/

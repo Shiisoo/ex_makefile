@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "maths.h": "c",
+        "stdio.h": "c",
+        "sayhello.h": "c",
+        "main.C": "cpp"
+    }
+}

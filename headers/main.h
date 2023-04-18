@@ -1,0 +1,12 @@
+#ifndef MAIN_H
+#define MAIN_H
+
+#include <stdlib.h>
+#include <stdio.h>
+
+#include "./sayHello.h"
+#include "./maths.h"
+
+int main(void);
+
+#endif // MAIN_H
