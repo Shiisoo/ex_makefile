@@ -58,6 +58,9 @@ fclean: clean
 	@echo "PHASE : $@"
 	@rm -rf ${BLD}*.exe
 	@rm -rf ${PROD}*.exe
+	@rm -rf *.exe
+	@rm -rf ${DLL}*.dll
+	@rm -rf ${DLL}*.so
 
 # -------------------------------------------------------------------------------------------------
 
